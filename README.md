@@ -20,7 +20,7 @@ https://ctrlshiftes.com/blog/ad-home-lab
 
 - Windows 10</b> 
 
-OSTICKET 
+ACTIVE DIRECTORY
 
 Your going to need to download ;
 Oracle Virtual Box (https://www.virtualbox.org/wiki/Downloads)
