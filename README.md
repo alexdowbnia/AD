@@ -20,11 +20,9 @@ https://ctrlshiftes.com/blog/ad-home-lab
 
 - Windows 10</b> 
 
-ACTIVE DIRECTORY
-
 <h2>Downloads</h2>
 Oracle Virtual Box (https://www.virtualbox.org/wiki/Downloads)</br>
-Windows Server 2019 (https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019)</br>
+Windows Server 2019 (https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019)</br></br>
 
 To install VirtualBox, visit the VirtualBox website and download the version appropriate for your operating system. Once the download is complete, double-click the installer and follow the on-screen instructions to complete the installation.
 
